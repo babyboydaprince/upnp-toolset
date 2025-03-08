@@ -1,0 +1,18 @@
+
+
+
+--- TOOLKIT EXAMPLE
+
+https://github.com/nccgroup/UPnP-Pentest-Toolkit
+
+
+
+--- RAPID7 REQUEST ANALYZEE TOOL (example)
+
+https://www.rapid7.com/blog/post/2020/12/22/upnp-with-a-holiday-cheer/
+
+
+
+--- NMAP UPNP ENUMERQTION
+
+https://exploit-notes.hdks.org/exploit/network/protocol/upnp-pentesting/
